@@ -4,7 +4,9 @@ import Theme from "./Theme";
 function App() {
   return (
     <Theme>
-      <Button>oi</Button>
+      <Button icon="arrow-right">
+        Text
+      </Button>
     </Theme>
   );
 }
