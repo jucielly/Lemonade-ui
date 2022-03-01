@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`icon Should match snapshot for arrow-right 1`] = `
+<body>
+  <div>
+    <svg
+      data-testid="arrow-right-icon"
+    >
+      arrowRight.svg
+    </svg>
+  </div>
+</body>
+`;
+
+exports[`icon Should match snapshot for check 1`] = `
+<body>
+  <div>
+    <svg
+      data-testid="check-icon"
+    >
+      check.svg
+    </svg>
+  </div>
+</body>
+`;
+
+exports[`icon Should match snapshot for refresh 1`] = `
+<body>
+  <div>
+    <svg
+      data-testid="refresh-icon"
+    >
+      refresh.svg
+    </svg>
+  </div>
+</body>
+`;

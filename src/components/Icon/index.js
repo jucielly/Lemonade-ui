@@ -4,7 +4,7 @@ import { ReactComponent as Refresh } from "./refresh.svg";
 import PropTypes from "prop-types";
 import React from "react";
 
-const icons = {
+export const icons = {
   "arrow-right": ArrowRight,
   check: Check,
   refresh: Refresh,
