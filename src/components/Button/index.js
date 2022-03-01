@@ -12,7 +12,7 @@ const Button = ({ icon, children, ...props }) => {
   );
 };
 
-Button.proptypes = {
+Button.propTypes = {
   icon: Icon.propTypes.icon,
   color: PropTypes.oneOf(["primary", "secondary"]),
   ...StyledButton.propTypes,

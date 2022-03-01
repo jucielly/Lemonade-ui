@@ -12,7 +12,7 @@ const icons = {
 
 const Icon = ({ icon }) => {
   const IconComponent = icons[icon] || React.Fragment;
-  return <IconComponent />;
+  return <IconComponent data-testid={`${icon}-icon`} />;
 };
 
 Icon.propTypes = {
