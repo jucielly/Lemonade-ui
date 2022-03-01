@@ -4,7 +4,7 @@ import Theme from "./Theme";
 function App() {
   return (
     <Theme>
-      <Button icon="arrow-right">
+      <Button icon="arrow-right" onClick={() => alert("ouch!")}>
         Text
       </Button>
     </Theme>
