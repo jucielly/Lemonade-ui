@@ -1,4 +1,4 @@
-# Lemonade ui
+# Lemonade ui 🍋
 
 Simple button demo. checkout our storybook at [lemonade ui](https://jucielly.github.io/lemonade-ui/)
 
